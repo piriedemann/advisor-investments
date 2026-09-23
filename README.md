@@ -8,10 +8,12 @@ python3 -m http.server 8000   # then open http://localhost:8000
 
 Or just open `index.html` in a browser. Screenshots are in `previews/`.
 
-## Placeholders to replace before going live
+## Content sources
 
-- Phone, email, street address (contact section)
-- Headshots for James Pope and Shane Haag (currently initials)
-- Bio, Our Story, Client Login, Form ADV / Form CRS links (`href="#"`)
+Team photos, bios, contact details, disclosures and newsletter posts come from the firm's current site. Newsletter cards and the Form ADV / CRS links point back to it.
+
+## Still to do before going live
+
 - Contact form is front-end only; wire it to a form service or CRM
+- Client Login link (`href="#"`)
 - Have compliance review all copy and the footer disclosure (SEC Marketing Rule)
